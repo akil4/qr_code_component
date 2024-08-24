@@ -39,8 +39,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Was confused on how to center the card in the display. I tried to position it and failed, later realised flex makes it easier.
 
-To see how you can add code snippets, see below:
-
 ```html
 <body>
     <main>
@@ -81,9 +79,3 @@ Need help in reducing the amount of css code i am using. I am not sure if all ar
 
 - GitHub - [akil4](https://github.com/akil4)
 - Frontend Mentor - [@akil4](https://www.frontendmentor.io/profile/akil4)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
